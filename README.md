@@ -1,2 +1,2 @@
 # Zerodha
-a website clone
+This is just a practice website clone
